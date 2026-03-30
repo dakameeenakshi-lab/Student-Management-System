@@ -13,14 +13,13 @@ A full-stack Student Management System built using PHP, MySQL, Bootstrap, PHPMai
 - Student Document Wallet feature
 - OTP Based Password reset
 
-## Live Demo
-https://studentprofile.gt.tc/
+
 
 ## Tech Stack
-- PHP
+
 - MySQL
 - Bootstrap 5
 - JavaScript
-- PHPMailer
-- Composer
-- 
+- css
+-php 
+
