@@ -16,10 +16,10 @@ A full-stack Student Management System built using PHP, MySQL, Bootstrap, PHPMai
 
 
 ## Tech Stack
-
+- php
 - MySQL
 - Bootstrap 5
 - JavaScript
 - css
--php 
+
 
